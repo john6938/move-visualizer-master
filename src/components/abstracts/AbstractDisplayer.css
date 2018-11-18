@@ -1,0 +1,23 @@
+.container {
+	flex: 1 1 auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.title {
+	flex: 0 0 auto;
+	font-size: 1.1em;
+	font-weight: 600;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.content {
+	flex: 1 1 auto;
+	border: 1px solid #666;
+	border-radius: 20px;
+	padding: 30px 50px;
+	word-wrap: break-word;
+	overflow: auto;
+	line-height: 1.4em;
+}

@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+button,
+select {
+	height: 30px;
+}
+
+button {
+	padding: 0 20px;
+}

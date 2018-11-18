@@ -1,0 +1,7 @@
+{
+	"name": "comment-abstract",
+	"version": "0.0.1",
+	"dependencies": {
+		"firebase-admin": "^6.0.0"
+	}
+}

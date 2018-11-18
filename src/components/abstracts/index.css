@@ -1,0 +1,16 @@
+.abstractContainer {
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	margin: 20px 10px;
+}
+
+.bottomControl {
+	display: flex;
+	justify-content: space-between;
+}
+
+.bottomControl input {
+	font-size: 1em;
+	width: 40px;
+}
